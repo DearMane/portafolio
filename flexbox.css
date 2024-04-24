@@ -1,0 +1,18 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.menu__header{
+    gap: 10px;
+}
+.skills__line, .hobbies__line, .academic__courses{
+    display: flex;
+    justify-content: space-around;
+
+}
+.skills__box, .hobbies__box{
+    gap: 30px;
+ 
+}
